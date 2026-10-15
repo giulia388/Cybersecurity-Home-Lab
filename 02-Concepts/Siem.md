@@ -1,0 +1,1 @@
+Un SIEM (Security Information and Event Management) raccoglie e analizza eventi di sicurezza provenienti da sistemi diversi, aiutando a identificare comportamenti sospetti.
