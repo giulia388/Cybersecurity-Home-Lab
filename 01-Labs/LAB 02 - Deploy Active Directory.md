@@ -15,7 +15,7 @@ Installare Active Directory Domain Services (AD DS) su Windows Server 2025 e pro
 | Dominio | `lab.test` |
 | Nome NetBIOS | `LAB` |
 | Rete | `CYBER-LAB` |
-
+\
 Configurazione iniziale: [[LAB 01 - Configurazione DC01]].
 
 Questi sono i valori riportati nella nota, non nuove misurazioni sulla VM. Prefisso di rete, gateway, DNS della scheda e modalità di rete VirtualBox non sono specificati qui: non vanno dedotti dal solo indirizzo IP o dal nome `CYBER-LAB`.
@@ -122,9 +122,6 @@ In caso di problemi, annotare:
 
 ## 7. Conclusione
 
-**Laboratorio in attesa di validazione.** La procedura è riportata, ma le evidenze disponibili non permettono ancora di dichiarare verificato il funzionamento del dominio.
-
-Completare la conclusione dopo i controlli della sezione 5, indicando quali verifiche sono riuscite e quali problemi restano aperti. Il superamento di questi controlli documenta le verifiche di base previste nel laboratorio, non una validazione completa dell'infrastruttura.
 
 ## 8. Concetti e collegamenti
 

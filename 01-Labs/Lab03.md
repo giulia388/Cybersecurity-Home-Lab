@@ -58,8 +58,14 @@ Vengono create le OU:
 
 **Risultato ottenuto:**![[Pasted image 20261016120427.png]]
 
+## 4. Conclusione
+Creato correttamente l'elenco delle Organizational Units (OU) all'interno di Active Directory, nel dominio `lab.test`.
+Le OU sono contenitori logici della directory, nei quali organizzerò gli oggetti dell'azienda virtuale.
 
-## 4. Concetti collegati
+![[Pasted image 20261016121904.png]]
+
+![[Pasted image 20261016121919.png|465]]
+## 5. Concetti collegati
 
 - [[Active Directory]]
     
